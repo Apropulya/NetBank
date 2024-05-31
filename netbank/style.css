@@ -1,0 +1,21 @@
+:root{
+    --background:rgb(41, 1, 37);
+}
+body{
+    background-color: var(--background);
+    color: wheat;
+}
+.💩{
+    text-align: center;
+    /*border: 20px skyblue solid;*/
+}
+.🙀{
+    margin-bottom: 10px;
+}
+h2{
+    color: rgb(89, 159, 219);
+}
+a{
+    text-decoration:dashed;
+    color: color-mix(in srgb, wheat, purple);
+}
